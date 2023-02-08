@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Arduino")(type "KiCad")(uri "C:/Users/lauwy/Documents/PCB-SCHEM/MegaCar/Lib-KiCad/arduino.kicad_sym")(options "")(descr ""))
+  (lib (name "HC-SR04")(type "KiCad")(uri "C:/Users/lauwy/Documents/PCB-SCHEM/MegaCar/Lib-KiCad/HC-SR04/HC-SR04.kicad_sym")(options "")(descr ""))
+)

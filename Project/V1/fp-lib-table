@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Arduino")(type "KiCad")(uri "C:/Users/lauwy/Documents/PCB-SCHEM/MegaCar/Lib-KiCad/Arduino.pretty")(options "")(descr ""))
+)
